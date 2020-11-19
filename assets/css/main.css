@@ -1127,6 +1127,7 @@ body.is-preload #header.alt>* {
 	text-align: center;
 	cursor: default;
 	list-style: a;
+	padding: 0;
 }
 
 #footer ul.icons li {
